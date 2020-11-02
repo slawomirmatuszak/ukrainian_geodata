@@ -18,7 +18,7 @@ https://www.oporaua.org/longrid/map_2020.html
 
 
 ## Подяка
-За допомогу в створенні даних  дякуємо [Федору Гонці](https://fedir.gontsa.com/)
+За допомогу в створенні даних та мапи дякуємо [Федору Гонці](https://fedir.gontsa.com/)
 
 
 
