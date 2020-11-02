@@ -14,9 +14,10 @@
 * **`hromady.geojson`** – геопросторові дані об'єднаних територіальних громад.
 
 ## Виборча мапа Україна
+
+![alt text](https://danivyboriv.net/wp-content/uploads/2020/10/screenshot-fedir.gontsa.com-2020.10.07-14_49_26-600x400.png)
+
 https://www.oporaua.org/longrid/map_2020.html
-
-
 ## Подяка
 За допомогу в створенні даних та мапи дякуємо [Федору Гонці](https://fedir.gontsa.com/)
 
